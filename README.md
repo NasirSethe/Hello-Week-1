@@ -18,7 +18,7 @@
   - [🛠 Built With](#built-with)
   - [Tech Stack](#tech-stack)
   - [Setup](#setup)
-  - [Install](#install)
+  - [👥 Authors](#authors)
   - [⭐️ Show your support](#support)
   - [📝 License](#license)
 
